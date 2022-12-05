@@ -1,0 +1,6 @@
+Key concepts:
+    time series analysis 
+    correctness vs latency
+    PCollections
+    batch vs streaming (bounded vs unbounded)
+    
